@@ -6,3 +6,6 @@ console.log(login);
 
 const authenticate="User authentication";
 console.log(authenticate);
+
+const payment="Payment page ";
+console.log(payment);
