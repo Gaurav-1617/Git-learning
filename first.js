@@ -9,3 +9,6 @@ console.log(authenticate);
 
 const payment="Payment page ";
 console.log(payment);
+
+const confirmation ="Payment is Done";
+console.log(confirmation);
