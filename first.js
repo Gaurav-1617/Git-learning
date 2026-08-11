@@ -14,3 +14,8 @@ const confirmation ="Payment is Done";
 console.log(confirmation);
 
 console.log("Latest Update");
+
+const bug="Bug is found";
+const error ="New error detected";
+console.log(bug);
+console.log(error);
