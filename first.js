@@ -12,3 +12,5 @@ console.log(payment);
 
 const confirmation ="Payment is Done";
 console.log(confirmation);
+
+console.log("Latest Update");
